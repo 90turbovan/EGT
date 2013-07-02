@@ -1,4 +1,4 @@
-update=6/24/2013 12:39:51 AM
+update=7/2/2013 10:28:26 AM
 version=1
 last_client=eeschema
 [cvpcb]
@@ -47,7 +47,7 @@ LibName16=valves
 version=1
 [eeschema]
 version=1
-LibDir=C:/Users/SHITASSPETFUCKERS/Google Drive/KiCAD/library
+LibDir=C:/Users/BMoyer/Documents/KICAD/library
 NetFmtName=
 RptD_X=0
 RptD_Y=100
@@ -87,3 +87,4 @@ LibName30=valves
 LibName31=einterface
 LibName32=emicrochip
 LibName33=eregulators
+LibName34=eanalogdevices
