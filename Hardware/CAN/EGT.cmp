@@ -1,0 +1,157 @@
+Cmp-Mod V01 Created by CvPcb (2013-05-31 BZR 4019)-stable date = 7/2/2013 11:09:41 PM
+
+BeginCmp
+TimeStamp = /51D301FC;
+Reference = C1;
+ValeurCmp = 10uF;
+IdModule  = c_tant_A;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D3020B;
+Reference = C2;
+ValeurCmp = 10uF;
+IdModule  = c_tant_A;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D34781;
+Reference = C3;
+ValeurCmp = 100nF;
+IdModule  = c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D3381A;
+Reference = C4;
+ValeurCmp = C;
+IdModule  = c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D33806;
+Reference = C5;
+ValeurCmp = C;
+IdModule  = c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D33829;
+Reference = C6;
+ValeurCmp = C;
+IdModule  = c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D33838;
+Reference = C7;
+ValeurCmp = C;
+IdModule  = c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D33E71;
+Reference = C8;
+ValeurCmp = C;
+IdModule  = c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D3136E;
+Reference = D1;
+ValeurCmp = SCHOTTKY;
+IdModule  = SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D31415;
+Reference = P1;
+ValeurCmp = CONN_4;
+IdModule  = EGT_connector;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D3193F;
+Reference = P2;
+ValeurCmp = CONN_2;
+IdModule  = EGT_thermo;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D337AC;
+Reference = R1;
+ValeurCmp = R;
+IdModule  = c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D337CA;
+Reference = R2;
+ValeurCmp = R;
+IdModule  = c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D337D9;
+Reference = R3;
+ValeurCmp = R;
+IdModule  = c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D337BB;
+Reference = R4;
+ValeurCmp = R;
+IdModule  = c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D337F7;
+Reference = R5;
+ValeurCmp = R;
+IdModule  = c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D337E8;
+Reference = R6;
+ValeurCmp = R;
+IdModule  = c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D33E80;
+Reference = R7;
+ValeurCmp = R;
+IdModule  = c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D38633;
+Reference = U1;
+ValeurCmp = MC33269;
+IdModule  = so-8;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D2DDA0;
+Reference = U2;
+ValeurCmp = PIC12F1840;
+IdModule  = dfn8;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D2E563;
+Reference = U3;
+ValeurCmp = TJA1051TK/3;
+IdModule  = dfn8;
+EndCmp
+
+BeginCmp
+TimeStamp = /51D2E39A;
+Reference = U4;
+ValeurCmp = AD8628;
+IdModule  = SOT23-5;
+EndCmp
+
+EndListe
